@@ -13,7 +13,7 @@ include "header.html"
 		</div>
 		<div class="span4 text-center front">
 			<a href="projects.php" class="btn btn-warning btn-round"><i class="icon-rocket"></i></a><br><br>
-			<p class="lead">A portofolio of various project I have worked on.</p>
+			<p class="lead">A portofolio of various projects I have worked on.</p>
 		</div>
 		<div class="span4 text-center front">
 			<a href="contact.php" class="btn btn-success btn-round"><i class="icon-envelope"></i></a><br><br>

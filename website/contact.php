@@ -16,7 +16,7 @@ include "header.html"
 			1054EL Amsterdam<br>
 			The Netherlands<br>
 			<h3>Contact details</h3>
-			<i class="icon-phone"></i> (+31) 6 3442 4443<br/>
+			<i class="icon-phone"></i> (+31) 6 3432 4443<br/>
 			<a href="mailto:vgeirnaert@xs4all.nl"><i class="icon-envelope"></i>vgeirnaert@xs4all.nl</a>
 			<h3>Social networks</h3>
 			<a href="https://facebook.com/valentijn"><i class="icon-facebook-sign"></i>Valentijn on Facebook</a><br>
