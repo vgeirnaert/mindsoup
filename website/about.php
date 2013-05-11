@@ -25,7 +25,6 @@ include "header.html"
 		</div>
 		<div class="span4">
 			<img src="img/me.jpg" class="pull-right img-polaroid"/>
-			<legend>Sometimes I look smug</legend>
 		</div>
 	</div>
 </div>

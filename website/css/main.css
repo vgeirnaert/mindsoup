@@ -61,6 +61,11 @@ a [class^="icon-"] {
 	max-width: 900px;
 }
 
+.row-fluid {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
 .btn-round {
 	font-size: 70px;
 	border-radius: 500px;
@@ -72,6 +77,14 @@ a [class^="icon-"] {
 .front {
 	background-color: #eee;
 	padding: 10px;
+}
+
+legend {
+	font-size: 17px;
+}
+
+.img-project {
+	border: 1px solid #888;
 }
 
 /* footer */
