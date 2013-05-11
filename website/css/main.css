@@ -1,0 +1,87 @@
+/* Nav bar css */
+.navbar-fixed-top {
+	position: inherit;
+}
+
+.navbar-fixed-top .container {
+	max-width: 900px;
+}
+
+.nav>li {
+	line-height:80px;
+	font-size:28px;
+	border-right: 3px dashed #888;
+}
+
+.navbar .nav>li>a:hover {
+	background-color: #eee;
+	color: #000055;
+}
+
+a [class^="icon-"] {
+	display: inline-block;
+	width: 1.25em;
+}
+
+/* banner */
+.banner {
+	background-image: url(../img/banner.jpg);
+	background-repeat: repeat-x;
+	background-position: center;
+	height: 400px;
+	margin-bottom: 40px;
+	border-bottom: 1px solid #000000;
+	border-top: 1px solid #000000;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color: #ffffff;
+	line-height: 700px;
+	font-size: 32px;
+	box-shadow: inset 0 10px 10px rgba(0,0,0,0.2), inset 0 -10px 10px rgba(0,0,0,0.2);
+	/*-moz-box-shadow: inset 10 10 10px 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 10 10 10px 10px rgba(0,0,0,0.5);*/
+}
+
+.spacer {
+	height: 50px;
+	background-position: center top;
+}
+/* main body */
+@media (max-width: 767px) {
+	body {
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	
+	.navbar-fixed-top {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+}
+.container {
+	max-width: 900px;
+}
+
+.btn-round {
+	font-size: 70px;
+	border-radius: 500px;
+	height: 140px;
+	width: 130px;
+	line-height: 140px;
+}
+
+.front {
+	background-color: #eee;
+	padding: 10px;
+}
+
+/* footer */
+.footer {
+	border-top: 4px solid #ddd;
+	border-bottom: 4px solid #ddd;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #eee;
+}
+
+
+
